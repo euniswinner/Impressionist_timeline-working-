@@ -1,5 +1,5 @@
 Impressionist-Career-Visualization
-A project analyzing the career timelines of Impressionist painters using Python.
+A project analyzing the career timelines of Impressionist painters using Python
 
 Motivation
 My passion for Civil Engineering stems from a long-standing fascination with art history. I frequently visit museums to study how historical spaces and structures were designed. I started this project to organize the overlapping career timelines of Impressionist painters, transforming disparate historical information into a structured, visual framework. This process helped me practice the analytical mindset required for engineering: translating complex history into actionable data.
