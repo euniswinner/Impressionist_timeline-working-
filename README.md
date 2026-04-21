@@ -1,4 +1,3 @@
-Impressionist-Career-Visualization
 A project analyzing the career timelines of Impressionist painters using Python
 
 Motivation
