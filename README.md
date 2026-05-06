@@ -14,4 +14,4 @@ This was my first experience using the matplotlib library. I referenced Corey Sc
 Future Application
 This project taught me how to map "historical lifecycles." I plan to apply these skills to Civil Engineering to visualize infrastructure data, such as construction dates, maintenance cycles, and the durability of future public structures.
 
-(keep thinking about why I need to study code)
+
