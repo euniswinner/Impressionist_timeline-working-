@@ -12,6 +12,6 @@ Learning Process
 This was my first experience using the matplotlib library. I referenced Corey Schafer’s "Matplotlib Tutorial (Part 2)" to master coordinate shifting. While the logic was sound, I had to refine the axis formatting and labels to ensure the chart maintained professional clarity.
 
 Future Application
-This project taught me how to map "historical lifecycles." I plan to apply these skills to Civil Engineering to visualize infrastructure data, such as construction dates, maintenance cycles, and the durability of future public structures.
+This project taught me how to map "historical lifecycles." I plan to apply these skills to Civil Engineering to visualize infrastructure data, such as construction dates, maintenance cycles, and the durability of future public structures
 
 
